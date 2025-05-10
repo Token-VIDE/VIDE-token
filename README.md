@@ -10,7 +10,7 @@ VIDE est un jeton expérimental sur la blockchain Polygon, symbolisant le **vide
 - **Total Supply** : 420 000 000 000 VIDE
 - **Réseau** : Polygon (PoS)
 - **Taxe sur les transactions** : 5 %
-- **Adresse du contrat** : [`0x41d9618b69c4f5c66e870e46cda4c250aea949cf`](https://polygonscan.com/address/0x41d9618b69c4f5c66e870e46cda4c250aea949cf)
+- **Adresse du contrat** : [`0x8d8606cd52fb3169acf35864b0e747123e3c85e1`](https://polygonscan.com/address/0x8d8606cd52fb3169acf35864b0e747123e3c85e1)
 
 ## Objectifs du projet 
 
