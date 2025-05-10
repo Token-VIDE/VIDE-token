@@ -1,6 +1,7 @@
 # VIDE-token 
 
 VIDE est un jeton expérimental sur la blockchain Polygon, symbolisant le **vide** dans une société saturée.
+Il na ni but finanicer, ni utilité pratique : il agit comme une oeuvre à interprétation, portée par sa communauté.
 
 ## Informations techniques - 
 
@@ -9,7 +10,6 @@ VIDE est un jeton expérimental sur la blockchain Polygon, symbolisant le **vide
 - **Decimals** : 18
 - **Total Supply** : 420 000 000 000 VIDE
 - **Réseau** : Polygon (PoS)
-- **Taxe sur les transactions** : 0 %
 - **Adresse du contrat** : [`0x8d8606cd52fb3169acf35864b0e747123e3c85e1`](https://polygonscan.com/address/0x8d8606cd52fb3169acf35864b0e747123e3c85e1)
 
 ## Objectifs du projet 
