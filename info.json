@@ -4,7 +4,7 @@
   "type": "ERC20",
   "decimals": 18, "description": "VIDE est un token conceptuel et provocateur, pensé comme un mème à visée expérimentale, avec une taxe de 5% appliquée sur chaque transaction.",
   "website": "https://tonsite.com",
-  "explorer": "https://polygonscan.com/token/0xe90E2e0e7C49a2Be6CF87E62Ba8F730Fc50b35A9,
+  "explorer": "https://polygonscan.com/token/0x8d8606cd52fb3169acf35864b0e747123e3c85e1,
   "status": "active", 
   "id": "polygon", 
   "links": [] }
