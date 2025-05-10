@@ -16,6 +16,7 @@ Il na ni but finanicer, ni utilité pratique : il agit comme une oeuvre à inter
 
 - Créer un token sans utilité apparente mais à forte **valeur symbolique** 
 - Lancer un projet communautaire décentralisé autour du **concept de vide**
+- Donner a la communauté le pouvoir de définir le sens de la possession
 
   ## Ressources
 
