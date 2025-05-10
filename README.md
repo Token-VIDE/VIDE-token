@@ -1,6 +1,6 @@
 # VIDE-token 
 
-VIDE est un jeton expérimental sur la blockchain Polygon, symbolisant le **vide** dans une société saturée. Ce token ERC20 intègre une taxe de 5 % sur chaque transaction, redirigée vers un portefeuille public, afin de soutenir un futur écosystème communautaire.
+VIDE est un jeton expérimental sur la blockchain Polygon, symbolisant le **vide** dans une société saturée.
 
 ## Informations techniques - 
 
@@ -16,7 +16,6 @@ VIDE est un jeton expérimental sur la blockchain Polygon, symbolisant le **vide
 
 - Créer un token sans utilité apparente mais à forte **valeur symbolique** 
 - Lancer un projet communautaire décentralisé autour du **concept de vide**
-- Reverser la taxe à une **trésorerie publique** pour financer des projets sociaux, artistiques ou absurdes
 
   ## Ressources
 
